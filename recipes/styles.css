@@ -12,3 +12,12 @@ img {
   background-color: rgb(202, 191, 34);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.descript {
+  background-color: aquamarine;
+}
+
+li {
+  background-color: blueviolet;
+  color: wheat;
+}
