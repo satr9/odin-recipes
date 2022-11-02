@@ -1,0 +1,14 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  color: green;
+}
+
+img {
+  height: auto;
+  width: 400px;
+}
+
+.title {
+  background-color: rgb(202, 191, 34);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
